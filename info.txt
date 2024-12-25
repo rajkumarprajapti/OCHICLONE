@@ -1,0 +1,7 @@
+npm i framer-motion  se hum motion ke liye kar rahe hai 
+// sare animation ki inforamtion hai
+
+
+*** inlanding page
+
+* jaha bhi change karna hai us div ki gajah likho == motion.div
